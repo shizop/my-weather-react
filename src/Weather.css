@@ -35,10 +35,20 @@ body {
 }
 
 .Weather .day-time,
-.description,
-.detail {
+.description {
   opacity: 0.5;
   font-weight: 500;
+}
+
+.Weather .detail {
+  text-align: left;
+  position: relative;
+  bottom: -55px;
+}
+
+.Weather img {
+  position: relative;
+  top: -22px;
 }
 
 .Weather ul {
