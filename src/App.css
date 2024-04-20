@@ -2,8 +2,11 @@
   min-height: 100vh;
 }
 
-.footer a {
+footer {
+  text-align: center;
+}
+
+footer a {
   color: #acc2aa;
   text-decoration: none;
-  text-align: center;
 }
