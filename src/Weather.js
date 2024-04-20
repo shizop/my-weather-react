@@ -16,7 +16,7 @@ export default function Weather(props) {
       humidity: response.data.main.humidity,
       wind: response.data.wind.speed,
       desc: response.data.weather[0].description,
-      icon: "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-drizzle.svg",
+      icon: response.data.weather[0].icon,
       date: response.data.dt,
     });
   }
