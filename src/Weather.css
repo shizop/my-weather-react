@@ -9,8 +9,8 @@ body {
     rgb(249, 234, 223) 80%
   );
   box-shadow: -14px 14px 55px 14px rgba(0, 0, 0, 0.2);
-  margin: 50px;
-  padding: 40px 80px;
+  margin: 40px;
+  padding: 30px 100px;
   border-radius: 50px;
 }
 

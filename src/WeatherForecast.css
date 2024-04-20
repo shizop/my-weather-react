@@ -1,0 +1,21 @@
+.WeatherForecast-detail {
+  text-align: center;
+  background: #abc1aa;
+  border-radius: 30px;
+  box-shadow: -14px 14px 55px 14px rgba(0, 0, 0, 0.2);
+  margin: 30px auto;
+  padding: 15px 0;
+}
+
+.WeatherForecast h3 {
+  text-align: left;
+  font-size: 22px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.WeatherForecast-temp-min {
+  opacity: 0.6;
+  margin-left: 10px;
+}
